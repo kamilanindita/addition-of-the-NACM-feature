@@ -89,7 +89,7 @@ Edit file __init__.py (website/views/__init__.py) and index.html (website/templa
 ___
 
 
-## Test New Feature NACM
+## Testing New Feature NACM
 
 #### 1. Monitoring Resource NACM Server
 ![Image of Monitoring Resource](https://drive.google.com/uc?export=view&id=1AQPRc7v-ZZvYi6Bd4-0Wub4qfTh-RMBr)
