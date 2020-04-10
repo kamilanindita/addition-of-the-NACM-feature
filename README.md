@@ -80,5 +80,31 @@ Edit file add.html and edit.html (website/templates/setting/)
 
 ![Image of Edit file setting](https://drive.google.com/uc?export=view&id=1JMzVKdjaNOvNzhgvspkwXn-ki60HApSQ)
 
+#### 9. Add Monitoring Resource Server
+Edit file __init__.py (website/views/__init__.py) and index.html (website/templates/index.html)
+![Image of add monitoring resource](https://drive.google.com/uc?export=view&id=17nrAdqZa6lt-_u_eMFCrp3l9ITcuaIKM)
+
+![Image of view monitoring resource](https://drive.google.com/uc?export=view&id=1UnHwZpym5O9KGEQPJGJlBjbtDnXwfE8V)
+
+___
+
+
+## Test New Feature NACM
+
+#### 1. Monitoring Resource NACM Server
+![Image of Monitoring Resource](https://drive.google.com/uc?export=view&id=1AQPRc7v-ZZvYi6Bd4-0Wub4qfTh-RMBr)
+
+#### 2. Routing Static IPv6
+![Image of Routing Static IPv6](https://drive.google.com/uc?export=view&id=1HI6SlF17BMRyIL14biIzVQPwoTUP2w82)
+
+![Image of Routing Static IPv6](https://drive.google.com/uc?export=view&id=1T2zmRidJkfPtcylG1jtd_RQCIL20Ult-)
+
+![Image of Routing Static IPv6](https://drive.google.com/uc?export=view&id=1zQJSG-7fB35k2JiiabQP-umPMWpnTnbe)
+
+#### 3. Routing OSPFv3
+![Image of Routing OSPFv3](https://drive.google.com/uc?export=view&id=1Oqyl397xRB-BzrM0_6s88uSVm0kne9qb)
+
+![Image of Routing OSPFv3](https://drive.google.com/uc?export=view&id=1vGkGuZYTs8pG5lHRQT98pA54kDGIfx_V)
+
 
 ___
