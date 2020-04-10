@@ -1,5 +1,3 @@
-# addition-of-the-NACM-feature
-
 <h1 align="center">NACM</h1>
 <h2 align="center">Network Automation Configuration Management</h2>
 
@@ -46,3 +44,17 @@ ___
 ___
 
 ** Keperluan tugas akhir
+
+___
+
+
+<h1 align="center">Addition of the NACM feature</h1>
+<h2 align="center">Static Routing IPv6 and OSPFv3 for Mikrotik Device</h2>
+
+Addition Fitur NACM:
+- **Routing Static IPv6**: For Mikrotik device
+- **Routing OSPFv3**: For Mikrotik device
+
+___
+
+
