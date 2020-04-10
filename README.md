@@ -1,15 +1,12 @@
-<h1 align="center">NACM</h1>
-<h2 align="center">Network Automation Configuration Management</h2>
+<h1 align="center">Addition of the NACM feature</h1>
+<h2 align="center">Static Routing IPv6 and OSPFv3 for Mikrotik Device</h2>
 
-Fitur NACM:
-- **Routing**: Konfigurasi dasar routing static, dynamic OSPF, RIPv1, RIPv2, dan BGP
-- **Vlan**: Konfigurasi vlan id 
-- **Code Based**: Mengirimkan konfigurasi berbasis text ke perangkat tujuan
-- **Backup**: Backup konfigurasi perangkat
-- **Restore**: Restore konfigurasi perangkat
-- **Setting**: Menambah dan menghapus konfigurasi vendor
+Addition Fitur NACM:
+- **Routing Static IPv6**: For Mikrotik device
+- **Routing OSPFv3**: For Mikrotik device
 
 ___
+
 
 # Instalasi
 ## Requirement
@@ -42,19 +39,4 @@ ___
 ![Image of vlan](https://drive.google.com/uc?export=view&id=1zVi9I7bCvJ6f4NUe3ooFPqNfoSLfh3we)
 
 ___
-
-** Keperluan tugas akhir
-
-___
-
-
-<h1 align="center">Addition of the NACM feature</h1>
-<h2 align="center">Static Routing IPv6 and OSPFv3 for Mikrotik Device</h2>
-
-Addition Fitur NACM:
-- **Routing Static IPv6**: For Mikrotik device
-- **Routing OSPFv3**: For Mikrotik device
-
-___
-
 
